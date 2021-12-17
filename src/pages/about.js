@@ -37,7 +37,7 @@ export const Container = styled.section`
     width: 60%;
   }
   @media (max-width: 636px) {
-    height: 600vh;
+    height: 320vh;
     div {
       width: 100%;
       display: flex;

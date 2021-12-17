@@ -51,7 +51,7 @@ export const Projects = styled.div`
     display: flex;
     flex-direction: column;
     width: 100%;
-    padding-bottom: 20vh;
+    padding-bottom: 10vh;
     article {
       display: flex;
     flex-direction: row;

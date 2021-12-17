@@ -44,7 +44,7 @@ const Projects = styled.div`
   }
   @media (max-width: 636px) {
     display: flex;
-    height: 300vh;
+    height: 500vh;
     flex-direction: column;
     width: 100%;
     justify-content: space-evenly;
