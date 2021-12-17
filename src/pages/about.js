@@ -119,7 +119,7 @@ export default function About() {
           <p>{aboutparagraph2}</p>
         </article>
       </div>
-      <Link to="/index">
+      <Link to="/">
         <img src={home.url} class="icon" alt="icon voltar " />
       </Link>
     </Container>

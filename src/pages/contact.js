@@ -112,7 +112,7 @@ export default function Contact() {
           <img src={linkedin.url} alt="icon " />
         </a>
       </nav>
-      <Link to="/index">
+      <Link to="/">
         <img src={home.url} alt="icon voltar " />
       </Link>
     </Container>

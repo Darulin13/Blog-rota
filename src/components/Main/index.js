@@ -57,7 +57,7 @@ export function Main() {
   return (
     <S.Container>
       <GlobalStyle />
-      <div>
+      <div class="text">
         <h1>{hi}</h1>
         <p>{paragraph}</p>
       </div>

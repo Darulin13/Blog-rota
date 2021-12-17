@@ -8,6 +8,7 @@ export const Container = styled.section`
   flex-direction: column;
   background-color: #81ecec;
   align-items: center;
+  padding-top: 10vh;
   nav {
     width: 40%;
     display: flex;

@@ -155,7 +155,7 @@ export default function Project() {
           </nav>
         </div>
       </Projects>
-      <Link to="/index">
+      <Link to="/">
         <img class="icon" src={home.url} alt="icon voltar " />
       </Link>
     </Container>
